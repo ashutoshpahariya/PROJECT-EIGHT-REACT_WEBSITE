@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+IN A COMMON COMPONEN T FILE PROPS IS THE PROPERTY WHERE WE CREATE COMMON USED DATA IN ONE FILE
+AND PASS THE PROPS PARAMETER AND USE IN A ALL FILE WHERE WE WANT TO CHANGE 
+HOME PAGE PE NAME CHANGE KRNA H TO HOME PAGE KI FILE MAIN name="jo bhi likhna ho"
+common component ki file jha name ka section ho vha props.name pass krdo in a curly braces
+
+
+
+
+
+
+
+
+
+
+
+
